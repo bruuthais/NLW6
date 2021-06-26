@@ -23,5 +23,3 @@ You will also see any lint errors in the console.
 <h1>Learn More</h1>
 You can learn more in the <a href="https://create-react-app.dev/docs/getting-started/"> Create React App documentation
 </a>.
-You can learn more in the <a href="https://yarnpkg.com"> yarn
-</a>.
